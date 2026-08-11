@@ -23,7 +23,7 @@ Download the Repository
 Visit the Latest Release
 Download and extract the ZIP file
 Run file GaG2Macro.exe
-
+---
 #⌨️ Controls
 ---
 Action	Key
