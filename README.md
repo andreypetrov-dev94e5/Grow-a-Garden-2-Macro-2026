@@ -16,7 +16,7 @@ A macro for Grow A Garden 2 that automatically buys your selected seeds, gears, 
 <img width="600" height="397" alt="image" src="https://github.com/user-attachments/assets/ccc5adf9-41f7-43e0-a665-0885b57d0788" />
 
 ---
-#📥 Installation
+📥 Installation
 ---
 Download the Repository
 
@@ -24,7 +24,7 @@ Visit the Latest Release
 Download and extract the ZIP file
 Run file GaG2Macro.exe
 ---
-#⌨️ Controls
+⌨️ Controls
 ---
 Action	Key
 Start Macro	F1
