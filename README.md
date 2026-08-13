@@ -27,7 +27,6 @@ Run file GaG2Macro.exe
 ⌨️ Controls
 ---
 Action	Key
-
 Start Macro	F1
 Pause Macro	F2
 Stop Macro	Alt S
